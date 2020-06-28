@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlightMobileApp</string>
+    <string name="urlButton">Enter URL</string>
+    <string name="connectButton">Connect</string>
+    <string name="hello_second">Hello Second!</string>
+    <string name="local1">Localhost1</string>
+    <string name="local2">Localhost2</string>
+    <string name="local3">Localhost3</string>
+    <string name="local4">Localhost4</string>
+    <string name="local5">Localhost5</string>
+    <string name="icon">flight gear icon</string>
+    <string name="todo">TODO</string>
+    <string name="rudder">rudder</string>
+    <string name="throttle">throttle</string>
+    <string name="enter_local_host">Enter Local Host</string>
+    <string name="empty">empty</string>
+    <string name="check_if_url_is_valid">valid check before connect</string>
+
+</resources>
